@@ -1,8 +1,8 @@
-title: Throw of a Biased Dice
-description: "Life. Code. Tech. More"
+title: Eat. Sleep. Code. Game. Repeat.
+description: "Eat. Sleep. Code. Game. Repeat."
 author:
-  name: "Kumaran Venkataraman"
-  url: "https://blog.kumaranvram.com/"
+  name: "Rajkumar AS"
+  url: "https://thelighthouse.dev/"
 
 baseurl: /
 
@@ -27,5 +27,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "Kumaran Venkataraman"
+owner : "Rajkumar AS"
 year : "2020"
