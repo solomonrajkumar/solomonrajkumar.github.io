@@ -1,6 +1,10 @@
 ---
 
 layout: post
+title: "Building a client library in Go"
+date: 2021-12-11
+comments: true
+categories: [golang, tutorial]
 
 ---
 
